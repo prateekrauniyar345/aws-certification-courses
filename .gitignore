@@ -16,3 +16,8 @@ build/
 
 # ignore the .env file containing sensitive information
 .env
+
+
+
+# ignore the specific credentials file
+SAA - Associate level/practices/test-user-1_credentials.csv
