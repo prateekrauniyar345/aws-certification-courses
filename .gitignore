@@ -33,3 +33,10 @@ env/
 
 # ignore the node_modules folder
 node_modules/
+
+
+
+
+
+# ignore everything in the secret folder
+secret/
