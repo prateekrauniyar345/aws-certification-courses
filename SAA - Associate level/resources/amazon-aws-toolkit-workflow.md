@@ -180,7 +180,7 @@ Ctrl + Shift + X   (Windows/Linux)
 **What you'll see:**
 A sidebar will open on the left showing "Extensions" with a search box.
 
-![Image placeholder: VS Code Extensions Panel](https://via.placeholder.com/400x300?text=VS+Code+Extensions+Panel)
+![Image placeholder: VS Code Extensions Panel](https://www.sqlshack.com/wp-content/uploads/2020/06/install-aws-toolkit-for-visual-studio-code.png)
 
 ### Step 3: Search for AWS Toolkit
 In the search box, type:

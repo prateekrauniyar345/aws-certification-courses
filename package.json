@@ -1,0 +1,21 @@
+{
+  "name": "aws-certification-courses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prateekrauniyar345/aws-certification-courses.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/prateekrauniyar345/aws-certification-courses/issues"
+  },
+  "homepage": "https://github.com/prateekrauniyar345/aws-certification-courses#readme"
+}
